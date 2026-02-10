@@ -1,3 +1,3 @@
-module github.com/allkssllm/belajar-golang
+module github.com/allkssllm/go-say-hello
 
 go 1.25.7
